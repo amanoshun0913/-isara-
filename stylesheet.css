@@ -143,7 +143,7 @@ header a:hover{
     padding-top: 75px;
 }
 .sec-1{
-    background-image:url(../images/main.jpg)/* no-repeat center center*/;
+    background-image:url(https://raw.githubusercontent.com/amanoshun0913/-isara-/a2df9947be6684573e961b5d374da9f18d60ed90/main.jpg)/* no-repeat center center*/;
     background-size: cover;
     height: 500px;
 }
@@ -212,7 +212,7 @@ margin:0 auto;
     background: #D84940;
 }
 .sec-3{
-    background: url(../images/introbottom.jpg) ;
+    background: url(https://raw.githubusercontent.com/amanoshun0913/-isara-/a2df9947be6684573e961b5d374da9f18d60ed90/introbottom.jpg) ;
     background-size: cover;
     height: 545px;
     text-align: center;
@@ -317,7 +317,7 @@ margin:0 auto;
     line-height: 19px;
 }
 .sec-5{
-    background: url(../images/aboutsecondbg.jpg);
+    background: url(https://raw.githubusercontent.com/amanoshun0913/-isara-/a2df9947be6684573e961b5d374da9f18d60ed90/aboutsecondbg.jpg);
 }
 .sec-5 h1{
     font-size: 28px;
@@ -470,7 +470,7 @@ padding: 50px 0 40px 0;
     padding: 45px 0 55px 0;
 }
 .sec-8{
-    background: url(../images/teacherbg.jpg) 100%;
+    background: url(https://raw.githubusercontent.com/amanoshun0913/-isara-/edb62e55b21f7776467fc9b4390a584cb01212d0/teacherbg.jpg) 100%;
     background-size: cover;
     text-align: center;
     color: #ffffff;
@@ -623,7 +623,7 @@ text-align: center;
    
 }
 .sec-11{
-    background: url(../images/classbg.jpg) 100%;
+    background: url(https://raw.githubusercontent.com/amanoshun0913/-isara-/a2df9947be6684573e961b5d374da9f18d60ed90/classbg.jpg) 100%;
     background-size: cover;
     height: 800px;
 }
@@ -759,7 +759,7 @@ text-align: center;
     margin: 0 auto;
 }
 .sec-14{
-    background: url(../images/bangkokbg.jpg) 100%;
+    background: url(https://raw.githubusercontent.com/amanoshun0913/-isara-/a2df9947be6684573e961b5d374da9f18d60ed90/bangkokbg.jpg) 100%;
     background-size: cover;
     color: #ffffff;
     padding: 100px 0;
@@ -860,7 +860,7 @@ text-align: center;
 }
 .sec-16{
     color: #ffffff;
-    background: url(../images/specialdetail.jpg) 100%;
+    background: url(https://raw.githubusercontent.com/amanoshun0913/-isara-/6f313f0244ffe82264a8066edc7256c28965f16f/specialdetail.jpg) 100%;
     background-size: cover;
     text-align: center;
 }
